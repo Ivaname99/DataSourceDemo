@@ -221,7 +221,7 @@
             // 
             // customersBindingNavigator
             // 
-            this.customersBindingNavigator.AddNewItem = this.toolStripTextBox1;
+            this.customersBindingNavigator.AddNewItem = this.bindingNavigatorAddNewItem;
             this.customersBindingNavigator.BindingSource = this.customersBindingSource;
             this.customersBindingNavigator.CountItem = this.bindingNavigatorCountItem;
             this.customersBindingNavigator.DeleteItem = this.bindingNavigatorDeleteItem;
